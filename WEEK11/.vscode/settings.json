@@ -1,0 +1,15 @@
+{
+  "files.associations": {
+    "iostream": "cpp",
+    "iomanip": "cpp",
+    "locale": "cpp",
+    "xlocale": "cpp",
+    "xlocmes": "cpp",
+    "xlocmon": "cpp",
+    "xlocnum": "cpp",
+    "xloctime": "cpp",
+    "system_error": "cpp",
+    "ios": "cpp",
+    "xstring": "cpp"
+  }
+}
